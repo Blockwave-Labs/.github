@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Blockwave-Labs/Keplr-Documentation-for-Beginner">
-    <img  src="https://github.com/Blockwave-Labs/.github/tree/master/profile/images/logo.png" alt="Logo" width="80" height="80">
+    <img  src="https://raw.githubusercontent.com/Blockwave-Labs/.github/tree/master/profile/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Keplr Documentation for Beginner</h3>
@@ -282,9 +282,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/Blockwave-Labs/Keplr-Documentation-for-Beginner/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://github.com/Blockwave-Labs/.github/tree/master/profile/images/screenshot.png
-[blockwave-logo]: https://github.com/Blockwave-Labs/.github/tree/master/profile/images/blockwaveLogo.jpg
-[blockwave-logo-wide]: https://github.com/Blockwave-Labs/.github/tree/master/profile/images/blockwaveLogoWide.png
+[product-screenshot]: https://raw.githubusercontent.com/Blockwave-Labs/.github/tree/master/profile/images/screenshot.png
+[blockwave-logo]: https://raw.githubusercontent.com/Blockwave-Labs/.github/tree/master/profile/images/blockwaveLogo.jpg
+[blockwave-logo-wide]: https://raw.githubusercontent.com/Blockwave-Labs/.github/tree/master/profile/images/blockwaveLogoWide.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
